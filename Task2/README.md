@@ -16,7 +16,7 @@ JAVA console application that can be used to manage and manipulates files. These
 
 Command which ran and created .jar file.
 
-![Image](src/photos/jar_photo.png)
+![Image](src/photos/jar photo.PNG)
 
 
 This command compiled .java files into .class files in folder called out.
